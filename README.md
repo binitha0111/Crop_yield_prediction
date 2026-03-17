@@ -1,7 +1,8 @@
-# Crop_yield_prediction
-End-to-end machine learning system to predict crop yield using environmental and agricultural data such as rainfall, temperature, and pesticide usage. The project integrates model development, API deployment, interactive dashboards, and 3D geospatial visualization for real-time, region-specific forecasting.
----
+# Crop_Yield_Prediction
 
+End-to-end machine learning system to predict crop yield using environmental and agricultural data such as rainfall, temperature, and pesticide usage.
+
+---
 ## Dataset
 - FAO Crop Yield & Pesticide Data  
 - World Bank Rainfall & Temperature Data  
