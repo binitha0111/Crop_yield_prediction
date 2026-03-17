@@ -2,7 +2,7 @@
 End-to-end crop yield prediction system using Random Forest and XGBoost with Flask API, Streamlit dashboard, and geospatial visualization.
 ---
 
-## 📊 Dataset
+## Dataset
 - FAO Crop Yield & Pesticide Data  
 - World Bank Rainfall & Temperature Data  
 
@@ -12,16 +12,14 @@ https://climateknowledgeportal.worldbank.org
 
 ---
 
----
-
-## ⚙️ Methodology
+## Methodology
 - Data cleaning and merging (multi-source datasets)  
 - Feature engineering (interaction features, encoding, scaling)  
 - Model training using Random Forest and XGBoost  
 
 ---
 
-## 🤖 Model Performance
+## Model Performance
 - R² Score: **0.97**  
 - Random Forest selected for stable performance  
 
