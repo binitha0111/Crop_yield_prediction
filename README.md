@@ -1,5 +1,5 @@
 # Crop_yield_prediction
-End-to-end crop yield prediction system using Random Forest and XGBoost with Flask API, Streamlit dashboard, and geospatial visualization.
+End-to-end machine learning system to predict crop yield using environmental and agricultural data such as rainfall, temperature, and pesticide usage. The project integrates model development, API deployment, interactive dashboards, and 3D geospatial visualization for real-time, region-specific forecasting.
 ---
 
 ## Dataset
@@ -8,7 +8,6 @@ End-to-end crop yield prediction system using Random Forest and XGBoost with Fla
 
 https://www.fao.org/faostat/  
 https://climateknowledgeportal.worldbank.org  
-
 
 ---
 
@@ -30,3 +29,7 @@ https://climateknowledgeportal.worldbank.org
 - Streamlit dashboard for visualization  
 
 ---
+## 3D Visualization
+- Interactive 3D globe to visualize crop suitability across countries  
+- Displays region-wise best crops based on environmental and yield factors  
+- Helps in understanding global agricultural patterns and decision-making  
