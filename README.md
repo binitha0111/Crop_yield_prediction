@@ -25,7 +25,7 @@ https://climateknowledgeportal.worldbank.org
 
 ---
 
-## 🚀 Application
+## Application
 - Flask REST API for predictions  
 - Streamlit dashboard for visualization  
 
