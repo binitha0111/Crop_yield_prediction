@@ -1,0 +1,76 @@
+/* Page Background */
+body {
+    background-image: url("field.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Poppins', Arial, sans-serif;
+    color: #2ecc71; /* Global text color */
+    text-align: center;
+    padding: 30px;
+}
+
+/* Fancy Green Title (Solid Color, Not Gradient) */
+.fancy-title {
+    font-size: 60px;
+    font-weight: bold;
+    color: #2ecc71;  /* Solid green title color */
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Poppins', Arial, sans-serif;
+}
+
+/* Form Styling */
+form {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 25px;
+    border-radius: 10px;
+    display: inline-block;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    margin-bottom: 30px;
+}
+
+input, select {
+    width: 250px;
+    padding: 8px;
+    margin: 10px;
+    font-size: 14px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+input[type="submit"] {
+    background-color: #27ae60;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    background-color: #2ecc71;
+    box-shadow: 0 0 10px #2ecc71;
+}
+
+/* Result Box */
+.result-box {
+    background-color: rgba(255, 255, 255, 0.9);
+    color: #27ae60;
+    font-weight: bold;
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 128, 0, 0.2);
+}
+
+/* Graph Image */
+img {
+    border: 2px solid #555;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.3);
+    margin-top: 20px;
+    max-width: 90%;
+    height: auto;
+    border-radius: 10px;
+}
